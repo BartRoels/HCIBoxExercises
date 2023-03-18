@@ -1,9 +1,9 @@
-HOL-4: Exercise 1: Integrate Azure Stack HCI 22H2 with Azure
+Exercise 1: Integrate Azure Stack HCI 22H2 with Azure
 ==============
 
 Contents
 -----------
-- [HOL-4: Exercise 1: Integrate Azure Stack HCI 22H2 with Azure](#hol-4-exercise-1-integrate-azure-stack-hci-22h2-with-azure)
+- [Exercise 1: Integrate Azure Stack HCI 22H2 with Azure](#exercise-1-integrate-azure-stack-hci-22h2-with-azure)
   - [Contents](#contents)
   - [Overview](#overview)
   - [Task 1: Add the existing Cluster to Windows Admin Center](#task-1-add-the-existing-cluster-to-windows-admin-center)
@@ -162,7 +162,7 @@ Summary
 -----------
 In this exercise, you've successfully added the existing Azure Stack HCI cluster to your Windows Admin Center, checked the registration status of the Cluster via PowerShell, registered the Windows Admin Center in Azure and Verified this integration. 
 
-With this completed, you can now move on to the next exercise.
+With this completed, you can now move on to the next exercise. Click [Here](2_HybridAzSHCI.md) to start the 2nd exercise.
 
 Product improvements
 -----------

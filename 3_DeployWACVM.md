@@ -1,4 +1,4 @@
-HOL-4: Exercise 3: Deploying Virtual Machines on your Azure Stack HCI 22H2 via the Windows Admin Portal
+Exercise 3: Deploying Virtual Machines on your Azure Stack HCI 22H2 via the Windows Admin Portal
 ==============
 Overview
 -----------
@@ -6,7 +6,7 @@ Now you have looked a both the Integration and Hybrid capabilities of Azure Stac
 
 Contents
 -----------
-- [HOL-4: Exercise 3: Deploying Virtual Machines on your Azure Stack HCI 22H2 via the Windows Admin Portal](#hol-4-exercise-3-deploying-virtual-machines-on-your-azure-stack-hci-22h2-via-the-windows-admin-portal)
+- [Exercise 3: Deploying Virtual Machines on your Azure Stack HCI 22H2 via the Windows Admin Portal](#exercise-3-deploying-virtual-machines-on-your-azure-stack-hci-22h2-via-the-windows-admin-portal)
   - [Overview](#overview)
   - [Contents](#contents)
   - [Task 1: Explore the existing volumes created on the **hciboxcluster**](#task-1-explore-the-existing-volumes-created-on-the-hciboxcluster)
@@ -348,7 +348,7 @@ Summary
 -----------
 In this exercise, you have been exploring the existing Cluster Shared Volume which was created for you on Azure Stack HCI cluster. You also looked at more details and options related to the Volumes you can create in Azure Stack HCI. In Task 2 you downloaded some ISO files which you have used in Task 3 and Task 4 to respectively deployed a Windows Server 2022 VM and an Ubuntu 22.04 VM on the Azure Stack HCI Cluster. You finished this exercise by testing a Live migration of the Linux based VM to another available Azure Stack HCI Cluster node.
 
-With this completed, you can now move on to the next exercise.
+With this completed, you can now move on to the next exercise. Click [Here](4_ArcEnableWACVM.md) to start the 4rd exercise.
 
 Product improvements
 -----------

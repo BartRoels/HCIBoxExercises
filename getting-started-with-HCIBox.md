@@ -1,14 +1,9 @@
-HOL-4: Getting Started With Azure Stack HCI with Azure
+Getting Started With Azure Stack HCI with Azure
 -------------------------
-       
-# Getting Started with Lab
 
-1. Once the environment is provisioned, a virtual machine i.e, **HCIBox-Client** and lab guide will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab.
+# Getting Started with the Lab
 
-1. To get the lab environment details, select the **Environment Details** tab. The credentials will also be emailed to your registered email address. You can open the Lab Guide on a separate and full window by selecting the **Split Window** from the lower right corner. Also, you can start, stop and restart virtual machines from the **Virtual Machines** tab.
-
-   ![](media/env-page.png "Lab Environment")
- 
+1. Once the environment is provisioned, a virtual machine i.e, **HCIBox-Client** will be provisioned. Connect to the **HCIBox-client**  virtual machine via Azure Bastion. 
 
 ## Login to Azure Portal
 
@@ -62,3 +57,28 @@ HOL-4: Getting Started With Azure Stack HCI with Azure
 1. Once you are connected to Admin Center, you can see the screen as shown below in the screenshot:
 
    ![](media/ac-homepage.png "AC Home Page")
+
+
+Summary
+-----------
+In this exercise, you've successfully login into the Azure Portal and tested if you could Connected to the AdminCenter Virtual Machine in the HCIBoxClient Azure VM.
+
+With this completed, you can now move on to the next exercise. Click [Here](1_AzSHCIIntegration.md) to start the first exercise.
+
+Product improvements
+-----------
+If, while you work through this guide, you have an idea to make the product better, whether it's something in Azure Stack HCI, AKS on Azure Stack HCI, Windows Admin Center, or the Azure Arc integration and experience, let us know! We want to hear from you!
+
+For **Azure Stack HCI**, [Head on over to the Azure Stack HCI Q&A forum](https://learn.microsoft.com/en-us/answers/tags/6/azure-stack-hci "Azure Stack HCI Q&A"), where you can share your thoughts and ideas about making the technologies better and raise an issue if you're having trouble with the technology.
+
+For **AKS on Azure Stack HCI**, [Head on over to our AKS on Azure Stack HCI GitHub page](https://github.com/Azure/aks-hci/issues "AKS on Azure Stack HCI GitHub"), where you can share your thoughts and ideas about making the technologies better. If however, you have an issue that you'd like some help with, read on... 
+
+Raising issues
+-----------
+This lab is based on the Azure Arc Jumpstart HCIBox: https://azurearcjumpstart.io/azure_jumpstart_hcibox/
+
+<img src="https://azurearcjumpstart.io/img/hcibox_logo.png" width="20%" height="20%">
+
+If you want to setup the lab within your own Azure subscription please follow this link : https://azurearcjumpstart.io/azure_jumpstart_hcibox/#deployment-options-and-automation-flow
+
+If you notice something is wrong with this guide, such as a step isn't working, or something just doesn't make sense - help us to make this guide better!

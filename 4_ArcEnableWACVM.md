@@ -1,4 +1,4 @@
-﻿HOL-4: Exercise 4: Arc-enable existing Azure Stack HCI Virtual Machines
+﻿Exercise 4: Arc-enable existing Azure Stack HCI Virtual Machines
 ==============
 Overview
 -----------
@@ -6,7 +6,7 @@ You used have deployed some virtual machines on the Azure Stack HCI Cluster leve
 
 Contents
 -----------
-- [HOL-4: Exercise 4: Arc-enable existing Azure Stack HCI Virtual Machines](#hol-4-exercise-4-arc-enable-existing-azure-stack-hci-virtual-machines)
+- [Exercise 4: Arc-enable existing Azure Stack HCI Virtual Machines](#exercise-4-arc-enable-existing-azure-stack-hci-virtual-machines)
   - [Overview](#overview)
   - [Contents](#contents)
   - [Task 1: Prepare your Azure environment before onboarding your Azure Arc-enabled Virtual Machine.](#task-1-prepare-your-azure-environment-before-onboarding-your-azure-arc-enabled-virtual-machine)
@@ -16,7 +16,7 @@ Contents
     - [Prepare the step in Azure to onboard VM002 as an Azure Arc-enabled Virtual Machine](#prepare-the-step-in-azure-to-onboard-vm002-as-an-azure-arc-enabled-virtual-machine)
     - [Azure Arc-enable virtual machine VM002](#azure-arc-enable-virtual-machine-vm002)
   - [Task 3: Leverage the Azure AD RBAC controls to securely connect to VM002 via the Azure Arc-enabled Server capabilities](#task-3-leverage-the-azure-ad-rbac-controls-to-securely-connect-to-vm002-via-the-azure-arc-enabled-server-capabilities)
-  - [Prepare  the Azure Connected Machine agent confiruration on the VM002](#prepare--the-azure-connected-machine-agent-confiruration-on-the-vm002)
+  - [Prepare  the Azure Connected Machine agent configuration on the VM002](#prepare--the-azure-connected-machine-agent-configuration-on-the-vm002)
   - [Summary](#summary)
   - [Product improvements](#product-improvements)
   - [Raising issues](#raising-issues)
@@ -170,7 +170,7 @@ Task 3: Leverage the Azure AD RBAC controls to securely connect to VM002 via the
 ----- 
 In this step, you will prepare the Azure Connected Machine agent on the VM002 to securely connect to VM002
 
-## Prepare  the Azure Connected Machine agent confiruration on the VM002 ##
+## Prepare  the Azure Connected Machine agent configuration on the VM002 ##
 
 1. On **AdminCenter** VM,  type **CMD** in the searchbox (right from Start) and then **ENTER**. Right-click the Command Prompt, and click **Run as Administrator**.
  
@@ -217,7 +217,7 @@ In this exercise, you have been preparing and onboarding an on-premises Virtual 
 You finished this exercise by setting up and testing the new SSH access to Azure Arc-enabled servers.
 
 
-With this completed, you can now move on to the next exercise.
+With this completed, you can now move on to the next exercise. Click [Here](5_DeployAzureVM.md) to start the 5th exercise.
 
 Product improvements
 -----------

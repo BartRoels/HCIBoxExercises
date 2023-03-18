@@ -1,4 +1,4 @@
-﻿HOL-4: Exercise 2: Azure Stack HCI 22H2 Hybrid by design
+﻿Exercise 2: Azure Stack HCI 22H2 Hybrid by design
 ==============
 Overview
 -----------
@@ -6,7 +6,7 @@ Discover, monitor, and manage the Azure Stack HCI hosts as well as the virtual m
 
 Contents
 -----------
-- [HOL-4: Exercise 2: Azure Stack HCI 22H2 Hybrid by design](#hol-4-exercise-2-azure-stack-hci-22h2-hybrid-by-design)
+- [Exercise 2: Azure Stack HCI 22H2 Hybrid by design](#exercise-2-azure-stack-hci-22h2-hybrid-by-design)
   - [Overview](#overview)
   - [Contents](#contents)
   - [Task 1: Enable some Hybrid capabilities in Azure of your Azure Stack HCI cluster](#task-1-enable-some-hybrid-capabilities-in-azure-of-your-azure-stack-hci-cluster)
@@ -292,7 +292,7 @@ Summary
 -----------
 In this exercise, you have enabled the Hybrid Azure Stack HCI Cluster features in the Azure Portal, reviewed the status of the Azure Arc services in the Windows Admin Center web portal, completed the pre-requirements to be able to connect and use the Windows Admin Center from the Azure Portal on the Azure Stack HCI Cluster, looked at the Azure Extensions on the Azure Stack HCI cluster in the Azure Portal, looked at all configuration capabilities on an Azure Stack HCI Cluster resource in the Azure Portal and finally looked at the data captured by the Monitoring Insights service on the Azure Stack HCI cluster in the Azure Portal.
 
-With this completed, you can now move on to the next exercise.
+With this completed, you can now move on to the next exercise. Click [Here](3_DeployWACVM.md) to start the 3nd exercise.
 
 Product improvements
 -----------
